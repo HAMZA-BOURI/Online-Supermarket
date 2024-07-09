@@ -1,6 +1,6 @@
 <p align="center"><a href="https://www.linkedin.com/in/hamzabouri/" target="_blank"><img src="./image Website/Home.png" width="400" alt="Demaa Al-Amal Logo"></a></p>
 
-## Demaa Al Amal Website
+## Online Supermarket Website
 
 <!-- Home Page -->
 <h3>Home Page</h3>
@@ -41,6 +41,7 @@
 <H5><p>In the information entered by the customer his email where the invoice will be sent immediately to his email box with his name, first name, date, and time.
 So, the products and their prices with the quantity taken and the Total.</p></H5>
 <p align="center"><img src="./image Website/Email.jpg" width="400" alt="Invoice By Email"></p>
+
 ## My Contacts
 
 <p align="center">
