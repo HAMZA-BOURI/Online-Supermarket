@@ -34,7 +34,7 @@
 <!-- chackout Page -->
 <h3>Chackout Page</h3>
 <H5><p>After choosing the products and displaying the total, the user clicks on a button that gives the following page where the customer enters their information (last name, first name, address, email telephone number) and chooses the payment method.</p></H5>
-<p align="center"><img src="./image Website/Cart.png" width="400" alt="Cart Page"></p>
+<p align="center"><img src="./image Website/chackout.png" width="400" alt="Cart Page"></p>
 
 <!-- Invoice by email -->
 <h3>Invoice By Email</h3>
