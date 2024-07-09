@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.linkedin.com/in/hamzabouri/" target="_blank"><img src="./image Website/Home.png" width="400" alt="Demaa Al-Amal Logo"></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/hamzabouri/" target="_blank"><img src="./image Website/Logo.png" width="400" alt="Demaa Al-Amal Logo"></a></p>
 
 ## Online Supermarket Website
 
