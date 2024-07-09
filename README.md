@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.linkedin.com/in/hamzabouri/" target="_blank"><img src="./image Website/logo.png" width="50" alt="Online Supermarket Logo"></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/hamzabouri/" target="_blank"><img src="./image Website/logo.png" width="100" alt="Online Supermarket Logo"></a></p>
 
 ## Online Supermarket Website
 
