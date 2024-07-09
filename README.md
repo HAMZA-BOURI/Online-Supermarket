@@ -15,6 +15,7 @@
 </ul>
 </p>
 <p align="center"><img  src="./image Website/Product list.png" width="400" alt="Product list Page"></p>
+
 <!-- Contact Page -->
 <h3>Contact Page</h3>
 <p>For the 3rd button:
@@ -24,6 +25,7 @@
 </ul>
 </p>
 <p align="center"><img  src="./image Website/Contact.png" width="400" alt="Contact Page"></p>
+
 <!-- Cart Page -->
 <h3>Cart Page</h3>
 <H5><p> At the basket level, we find the groceries taken with their names, price, and quantity which can be reduced by clicking on less and increasing the amount more, as well as the total which is the price times the quantity. Thus, a cancel button is needed to permanently delete the product from the basket.
